@@ -1,0 +1,7 @@
+{
+  "name": "Last: Final : VetAI: Intelligent Veterinary Assistant",
+  "description": "A multilingual AI platform for livestock owners, veterinarians, and institutions providing disease diagnosis, treatment guidance, and farm management support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
